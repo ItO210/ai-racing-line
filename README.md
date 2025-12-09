@@ -2,7 +2,7 @@
 
 AIRacingLine is an AI-driven system designed to generate dynamic racing lines in Unity, providing real-time feedback based on player speed. An agent is trained using ML-Agents to drive around a track optimally. Its recorded path is then used to display a racing line that changes color (green, yellow, or red) depending on how the player's current speed compares to the agent's at the same point, helping guide players through acceleration and braking zones.
 
-This project was developed on **September 2024.** for Rewind Games, an  indie game studio based in Vancouver, BC.
+This project was developed in **September 2024.** for Rewind Games, an  indie game studio based in Vancouver, BC.
 
 ## Features
 
